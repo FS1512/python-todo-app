@@ -12,7 +12,7 @@ This is a basic console-to-do list manager implemented in Python. It provides us
 ## **How to Run**
 
 1. **Clone the Repository:**  
-   git clone \[https://github.com/your-username/your-repository.git\](https://github.com/your-username/your-repository.git)
+   git clone [https://github.com/FS1512/python-todo-app.git](https://github.com/FS1512/python-todo-app.git)
 
 2. **Navigate to the Project Directory:**  
    cd your-repository

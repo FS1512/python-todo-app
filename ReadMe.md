@@ -9,17 +9,6 @@ This is a basic console-to-do list manager implemented in Python. It provides us
 * **Remove Tasks:** Delete completed or unwanted tasks by their number.  
 * **View Tasks:** Display your current list of tasks with clear numbering.
 
-## **How to Run**
-
-1. **Clone the Repository:**  
-   git clone [https://github.com/FS1512/python-todo-app.git](https://github.com/FS1512/python-todo-app.git)
-
-2. **Navigate to the Project Directory:**  
-   cd your-repository
-
-3. **Run the Script:**  
-   python todo.py
-
 ## **Example Usage**
 
 \--- To-Do List Menu \---  
